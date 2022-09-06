@@ -21,5 +21,5 @@
   <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/react/react-original-wordmark.svg" alt="reactjs" width="40" height="40"/>
   <img src="https://img.icons8.com/color/bootstrap.png" alt="bootstrap" width="40" height="40" style="display: block;" />
   <br/>
-  <img style="display: block;" src="https://github-readme-stats.vercel.app/api?username=hellobrother1472&include_all_commits=true&count_private=true&show_icons=true&line_height=20&theme=radical"/>
+  <img style="display: block;margin-top: 2rem;" src="https://github-readme-stats.vercel.app/api?username=hellobrother1472&include_all_commits=true&count_private=true&show_icons=true&line_height=20&theme=radical"/>
 </p>
