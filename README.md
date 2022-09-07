@@ -19,6 +19,6 @@
   <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/nodejs/nodejs-original-wordmark.svg" alt="nodejs" width="40" height="40"/>
   <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/java/java-original-wordmark.svg" alt="java" width="40" height="40"/>
   <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/react/react-original-wordmark.svg" alt="reactjs" width="40" height="40"/>
-  <img src="https://img.icons8.com/color/bootstrap.png" alt="bootstrap" width="40" height="40" style="display: block;margin-bottom: 4rem" />
-  <img src="https://github-readme-stats.vercel.app/api?username=hellobrother1472" style="display: block; margin-top: 4rem"/>
+  <img src="https://img.icons8.com/color/bootstrap.png" alt="bootstrap" width="40" height="40" style="display: block; margin-bottom: 4rem" />
 </p>
+<img src="https://github-readme-stats.vercel.app/api?username=hellobrother1472" style="display: block; margin-top: 4rem"/>
