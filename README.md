@@ -31,5 +31,7 @@
   <img src="https://github-readme-streak-stats.herokuapp.com/?user=hellobrother1472&theme=radical"/>
 </p>
 <br/>
-<img src="https://activity-graph.herokuapp.com/graph?username=hellobrother1472&theme=react-dark"/>
+<p align="center" >
+  <img style="width:90%;" src="https://github-readme-activity-graph.cyclic.app/graph?username=hellobrother1472&theme=react-dark"/>
+</p>
 
