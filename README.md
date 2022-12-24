@@ -32,6 +32,6 @@
 </p>
 <br/>
 <p align="center" >
-  <img style="width:90%;" src="https://github-readme-activity-graph.cyclic.app/graph?username=hellobrother1472&theme=react-dark"/>
+  <img src="https://github-readme-activity-graph.cyclic.app/graph?username=hellobrother1472&theme=react-dark"/>
 </p>
 
