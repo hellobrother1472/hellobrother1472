@@ -19,16 +19,16 @@
 <table align = "center">
 <tr>
 <td>
-  <img src="https://github-readme-stats.vercel.app/api?username=hellobrother1472&show_icons=true&theme=radical&layout=compact" style="display: inline; margin-top:10rem;"/>
+  <img src="https://github-readme-stats.vercel.app/api?username=hellobrother1472&show_icons=true&theme=highcontrast&layout=compact" style="display: inline; margin-top:10rem;"/>
 </td>
 <td>
-  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=hellobrother1472&langs_count=8&theme=radical&layout=compact" style="display: inline; margin-top:10rem;"/>
+  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=hellobrother1472&langs_count=8&theme=highcontrast&layout=compact" style="display: inline; margin-top:10rem;"/>
 </td>
 </tr>
 </table>
 <br>
 <p align="center" >
-  <img src="https://github-readme-streak-stats.herokuapp.com/?user=hellobrother1472&theme=radical"/>
+  <img src="https://github-readme-streak-stats.herokuapp.com/?user=hellobrother1472&theme=highcontrast"/>
 </p>
 <br/>
 <p align="center" >
